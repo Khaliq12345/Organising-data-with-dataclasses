@@ -6,6 +6,10 @@ Before running the web scraping script, make sure you have the following install
 
 Python
 
+requests_html
+
+pandas
+
 ## Notes
 Please be mindful of the website's terms of service and policies while scraping. 
 Ensure that your scraping activities are legal and respectful of the website's resources.
